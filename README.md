@@ -8,8 +8,8 @@
 - 🎓 I'm currently pursuing a Master’s degree in Big Data & Data Science  
 - 🧠 I'm passionate about data engineering, model optimization, and building scalable systems  
 - 🔧 I'm currently working on projects involving:  
-  - 💾 Big Data (Hadoop, Spark, Kafka)  
-  - 📊 Data Science & NLP (Python, Pandas, Scikit-learn, NLTK)  
+  - 💾 Microservices (Springboot, RabbitMQ, Api-gateway, Eureka-server, Mongo Atlas) 
+  - 📊 Data Science & ML (Python, Scikit-learn, Pandas, Jupyter)  
   - 🐳 DevOps (Docker, Kubernetes - K3s, Jenkins, GitLab CI/CD)  
   - 🔗 Blockchain (Ethereum, Solidity, Web3.js, IPFS)  
 - 🌱 Always learning and building new things!
