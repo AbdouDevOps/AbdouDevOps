@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abderrahmane</h1>
-<h3 align="center">Big Data & Data Science Master's Student | Future DevOps Engineer | Blockchain Enthusiast</h3>
+<h3 align="center">Big Data & Data Science Master's Student | Future DevOps Engineer | Cloud & Kubernetes Enthusiast</h3>
 
 ---
 
@@ -29,6 +29,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="60"/>
+
+  
 </p>
 
 ---
@@ -37,12 +44,12 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 **Blockchain HR System** | Manage employee data on Ethereum with smart contracts | Solidity, Web3.js, IPFS |
-| 💊 **Pharmacy Microservices** | DDD-based Spring Boot system with MongoDB + RabbitMQ | Spring Cloud, MongoDB, RabbitMQ |
-| 🧠 **Twitter Sentiment Analysis** | NLP project with tweet classification & visualization | Python, Scikit-learn, Matplotlib |
-| ⚙️ **CI/CD with Jenkins & K3s** | Auto-deployment to Kubernetes from GitLab | Docker, Jenkins, Kubernetes |
+| 🔗 [**Blockchain HR System**](https://github.com/TON-PSEUDO/blockchain-hr)            | Manage employee data on Ethereum with smart contracts | Solidity, Web3.js, IPFS |
+| 💊 [**Pharmacy Microservices**](https://github.com/TON-PSEUDO/pharmacy-microservices) | DDD-based Spring Boot system with MongoDB + RabbitMQ | Spring Cloud, MongoDB, RabbitMQ |
+| 🤖 [**ML Classification Models**](https://github.com/AbdouDevOps/Machine-learning)    | A collection of supervised ML experiments (SVM, KNN, PCA, etc.) | Python, Scikit-learn, Pandas, Jupyter |
+| ⚙️ [**CI/CD with Jenkins & K3s**](https://github.com/TON-PSEUDO/devops-k3s-jenkins)   | Auto-deployment to Kubernetes from GitLab | Docker, Jenkins, Kubernetes |
 
-> 🚀 More projects available in my public repositories!
+
 
 ---
 
@@ -57,13 +64,7 @@
 
 📫 **How to reach me**
 
-- 📧 Email: [abderrahmane.email@example.com](mailto:abderrahmane.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/abderrahmane-karroum](https://linkedin.com/in/abderrahmane-karroum)  
+- 📧 Email: [abdobachar99@gmail.com](abdobachar99@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/abderrahmane-karroum](https://www.linkedin.com/in/abdou-karroum/)  
 - 🧠 Portfolio (Coming soon...)
-
----
-
-🐍 **Contribution Snake Animation**
-<!-- optional -->
-![snake gif](https://github.com/abderrahmanek/abderrahmanek/blob/output/github-contribution-grid-snake.svg)
 
