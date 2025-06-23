@@ -49,16 +49,7 @@
 | 🤖 [**ML Classification Models**](https://github.com/AbdouDevOps/Machine-learning)    | A collection of supervised ML experiments (SVM, KNN, PCA, etc.) | Python, Scikit-learn, Pandas, Jupyter |
 | ⚙️ [**CI/CD with Jenkins & K3s**](https://github.com/AbdouDevOps/devops-k3s-jenkins)   | Auto-deployment to Kubernetes from GitLab | Docker, Jenkins, Kubernetes |
 
-
-
----
-
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmanek&show_icons=true&theme=radical" alt="Abderrahmane's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmanek&layout=compact&theme=radical"/>
-</p>
+> 🚀 More projects available in my public repositories!
 
 ---
 
