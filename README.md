@@ -44,10 +44,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [**Blockchain HR System**](https://github.com/TON-PSEUDO/blockchain-hr)            | Manage employee data on Ethereum with smart contracts | Solidity, Web3.js, IPFS |
-| 💊 [**Pharmacy Microservices**](https://github.com/TON-PSEUDO/pharmacy-microservices) | DDD-based Spring Boot system with MongoDB + RabbitMQ | Spring Cloud, MongoDB, RabbitMQ |
+| 🔗 [**Blockchain HR System**](https://github.com/AbdouDevOps/blockchain-HR)            | Manage employee data on Ethereum with smart contracts | Solidity, Web3.js, IPFS |
+| 💊 [**Pharmacy Microservices**](https://github.com/AbdouDevOps/pharmacy-microservices) | DDD-based Spring Boot system with MongoDB + RabbitMQ | Spring Cloud, MongoDB, RabbitMQ |
 | 🤖 [**ML Classification Models**](https://github.com/AbdouDevOps/Machine-learning)    | A collection of supervised ML experiments (SVM, KNN, PCA, etc.) | Python, Scikit-learn, Pandas, Jupyter |
-| ⚙️ [**CI/CD with Jenkins & K3s**](https://github.com/TON-PSEUDO/devops-k3s-jenkins)   | Auto-deployment to Kubernetes from GitLab | Docker, Jenkins, Kubernetes |
+| ⚙️ [**CI/CD with Jenkins & K3s**](https://github.com/AbdouDevOps/devops-k3s-jenkins)   | Auto-deployment to Kubernetes from GitLab | Docker, Jenkins, Kubernetes |
 
 
 
